@@ -7,7 +7,7 @@ Welcome to my profile. I'm an overall web dev enthusiast. I mainly specialize in
 
 This one sparks joy
 ------
-- 🔎 Understanding why and what problems does it solve
+- 🔎 Learning by understanding why given problem exist and what problem does the given tool solve
 - 🏆 Providing utmost value by focusing on business needs
 - 💬 Empowering by constructive feedback, focused as much as possible on objectivity
 - ✂️ Cutting down the development time by addressing problems on the conceptual meetings
