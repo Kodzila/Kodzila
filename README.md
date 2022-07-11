@@ -3,7 +3,7 @@ Hey, I'm Paweł 👋
 
 Allow me to introduce myself
 ------
-Welcome on my profile. I'm an overal web dev enthusiast. Specialised mainly on backend development, however my knowledge grasps all other areas like frontend, devops and project management.
+Welcome to my profile. I'm an overall web dev enthusiast. I mainly specialize in backend development, but my knowledge covers all other areas such as frontend, devops and project management.
 
 This one sparks joy
 ------
