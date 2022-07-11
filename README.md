@@ -9,8 +9,8 @@ This one sparks joy
 ------
 - 🔎 Learning by understanding why given problem exist and what problem does the given tool solve
 - 🏆 Providing utmost value by focusing on business needs
-- 💬 Empowering by constructive feedback, focused as much as possible on objectivity
-- ✂️ Cutting down the development time by addressing problems on the conceptual meetings
+- 💬 Empowering by providing constructive feedback, focused as much as possible on objectivity
+- ✂️ Cutting down the development time by addressing problems right on the conceptual meetings
 - 🔐 Maintaining security
 
 Achievement unlocked
